@@ -1,0 +1,19 @@
+mention,theme_code,theme,lines_in_list,distinct_questions,shared_with_csp,shared_with_cr,shared_with_nat,unique_to_this_list,image_lines_in_source
+CSP,T1,Principes et valeurs de la République,37,37,,9,5,24,0
+CSP,T2,Système institutionnel et politique,46,46,,18,10,20,0
+CSP,T3,Droits et devoirs,30,30,,5,2,24,0
+CSP,T4,"Histoire, géographie et culture",47,47,,0,17,30,0
+CSP,T5,Vivre dans la société française,31,30,,1,10,19,0
+CSP,ALL,Total,191,190,,33,44,117,0
+CR,T1,Principes et valeurs de la République,40,40,9,,10,22,0
+CR,T2,Système institutionnel et politique,50,50,18,,15,19,0
+CR,T3,Droits et devoirs,38,38,5,,5,29,0
+CR,T4,"Histoire, géographie et culture",49,49,0,,19,30,0
+CR,T5,Vivre dans la société française,32,32,1,,12,19,0
+CR,ALL,Total,209,209,33,,61,119,0
+NAT,T1,Principes et valeurs de la République,38,38,5,9,,25,3
+NAT,T2,Système institutionnel et politique,57,56,10,15,,33,3
+NAT,T3,Droits et devoirs,37,37,2,6,,30,1
+NAT,T4,"Histoire, géographie et culture",83,83,17,19,,47,7
+NAT,T5,Vivre dans la société française,44,44,10,12,,22,1
+NAT,ALL,Total,259,258,44,61,,157,15
