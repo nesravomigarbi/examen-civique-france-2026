@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "French Civic Exam (Examen civique) 2026: Official Question Lists for All Three Mentions and Nationality Acquisition Statistics 2008–2025"
+authors:
+  - family-names: Vomigarbi
+    given-names: Nesra
+    affiliation: "Examen Civique Test (examen-civique-test.fr)"
+type: dataset
+version: 1.0.0
+doi: 10.5281/zenodo.24496692
+license: CC-BY-4.0
+url: "https://examen-civique-test.fr/"

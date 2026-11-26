@@ -1,0 +1,58 @@
+{
+  "title": "French Civic Exam (Examen civique) 2026: Official Question Lists for All Three Mentions and Nationality Acquisition Statistics 2008–2025",
+  "title_fr": "Examen civique 2026 : listes officielles des questions (CSP, CR, naturalisation) et statistiques des acquisitions de la nationalité française 2008-2025",
+  "short_description": "Tidy CSV tables of the three official knowledge-question lists of France's mandatory civic exam (examen civique, CSP / CR / naturalisation), cross-matched to show which questions are shared, plus the exam blueprint, key official exam figures and Insee/DGEF statistics on acquisitions of French nationality 2008–2025. Every value has a source URL and a check date.",
+  "description": "Since 1 January 2026, a first multi-year residence permit (carte de séjour pluriannuelle, CSP), a first resident card (carte de résident, CR) and naturalisation by decree in France require passing a 40-question civic exam (examen civique). The Ministry of the Interior publishes one list of knowledge questions per mention, in two formats (web pages for CSP and CR, a PDF for naturalisation in which 15 lines are images rather than text). This dataset puts the 659 published lines (CSP 191, CR 209, NAT 259) in one machine-readable table, assigns each distinct question a stable key, and flags which lists share it (523 distinct questions; 157 of the 258 distinct naturalisation questions appear in no other list). It adds the exam blueprint by theme and notion (Arrêté du 10 octobre 2025), 30 key official facts (pass mark, duration, fees, 71,125 candidates and 81% average pass rate at 26 May 2026, 444 centres), and official statistics on acquisitions of French nationality by mode, 2008–2025 (Insee, DGEF), with 2025 breakdowns for the ten main nationalities of origin. Answers are not included. Compiled by Nesra Vomigarbi for examen-civique-test.fr, an independent exam-preparation site not affiliated with the French State.",
+  "keywords": [
+    "examen civique",
+    "French civic exam",
+    "naturalisation",
+    "naturalization",
+    "French citizenship",
+    "nationalité française",
+    "carte de séjour pluriannuelle",
+    "carte de résident",
+    "immigration France",
+    "integration test",
+    "citizenship test",
+    "DGEF",
+    "Insee",
+    "open data",
+    "France"
+  ],
+  "author": {
+    "name": "Nesra Vomigarbi",
+    "affiliation": "Examen Civique Test (examen-civique-test.fr)"
+  },
+  "publisher_brand": "Examen Civique Test",
+  "website": "https://examen-civique-test.fr/",
+  "related_pages": [
+    "https://examen-civique-test.fr/questions/naturalisation/",
+    "https://examen-civique-test.fr/naturalisation/conditions/"
+  ],
+  "license": "CC-BY-4.0",
+  "license_note": "Compilation, keys, cross-matching and derived tables: CC BY 4.0. Source texts and figures: French public sector information (Licence Ouverte / etalab-2.0 where stated); attribution to the original publishers is kept in every row.",
+  "language": [
+    "fr",
+    "en"
+  ],
+  "version": "1.0.1",
+  "date_checked": "2026-11-24",
+  "temporal_coverage": "2008/2026",
+  "spatial_coverage": "France",
+  "upload_type": "dataset",
+  "files": [
+    "data/examen_civique_questions_officielles.csv",
+    "data/examen_civique_questions_uniques.csv",
+    "data/examen_civique_recouvrement_listes.csv",
+    "data/examen_civique_structure_epreuve.csv",
+    "data/examen_civique_faits_cles.csv",
+    "data/acquisitions_nationalite_france_2008_2025.csv",
+    "data/acquisitions_nationalite_par_nationalite_2025.csv",
+    "README.md"
+  ],
+  "suggested_citation": "Vomigarbi, N. (2026). French Civic Exam (Examen civique) 2026: Official Question Lists for All Three Mentions and Nationality Acquisition Statistics 2008–2025 (Version 1.0.1) [Data set]. Examen Civique Test. https://examen-civique-test.fr/ https://doi.org/10.5281/zenodo.24496692",
+  "doi": "10.5281/zenodo.24496692",
+  "concept_doi": "10.5281/zenodo.24496463",
+  "zenodo_url": "https://zenodo.org/records/24496692"
+}
