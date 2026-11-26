@@ -1,0 +1,16 @@
+This repository contains a dataset and software libraries.
+
+The dataset at the repository root (CSV files, metadata.json, README.md
+and CITATION.cff) is licensed under Creative Commons Attribution 4.0
+International (CC BY 4.0). See LICENSE-DATA.
+
+The library code under packages/ is licensed under the MIT License.
+See LICENSE-MIT. The question lists and nationality-acquisition
+statistics bundled inside those packages are also licensed under
+CC BY 4.0; see packages/*/LICENSE-DATA.
+
+Source texts and official figures remain French public sector
+information (Licence Ouverte / etalab-2.0 where the publisher states
+it). Attribution to the original publishers is kept in the records.
+Compilation, stable keys and cross-matching are by Nesra Vomigarbi
+for Examen Civique Test (https://examen-civique-test.fr/).

@@ -1,0 +1,25 @@
+{
+  "dataset_title": "French Civic Exam (Examen civique) 2026: Official Question Lists for All Three Mentions and Nationality Acquisition Statistics 2008–2025",
+  "dataset_version": "1.0.1",
+  "package_version": "1.0.0",
+  "doi": "10.5281/zenodo.24496692",
+  "concept_doi": "10.5281/zenodo.24496463",
+  "license_data": "CC-BY-4.0",
+  "license_code": "MIT",
+  "author": "Nesra Vomigarbi",
+  "email": "data@examen-civique-test.fr",
+  "homepage": "https://examen-civique-test.fr/",
+  "repository": "https://github.com/nesravomigarbi/examen-civique-france-2026",
+  "question_count": 523,
+  "acquisition_year_count": 18,
+  "acquisition_year_min": 2008,
+  "acquisition_year_max": 2025,
+  "themes": {
+    "T1": "Principes et valeurs de la République",
+    "T2": "Système institutionnel et politique",
+    "T3": "Droits et devoirs",
+    "T4": "Histoire, géographie et culture",
+    "T5": "Vivre dans la société française"
+  },
+  "citation": "Vomigarbi, N. (2026). French Civic Exam (Examen civique) 2026: Official Question Lists for All Three Mentions and Nationality Acquisition Statistics 2008–2025 (Version 1.0.1) [Data set]. Examen Civique Test. https://examen-civique-test.fr/ https://doi.org/10.5281/zenodo.24496692"
+}

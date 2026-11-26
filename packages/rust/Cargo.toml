@@ -1,0 +1,32 @@
+[package]
+name = "examen-civique-france"
+version = "1.0.0"
+edition = "2021"
+rust-version = "1.70"
+description = "Official French civic exam (examen civique) 2026 question lists and nationality acquisition statistics 2008–2025."
+license = "MIT AND CC-BY-4.0"
+authors = ["Nesra Vomigarbi <data@examen-civique-test.fr>"]
+homepage = "https://examen-civique-test.fr/"
+repository = "https://github.com/nesravomigarbi/examen-civique-france-2026"
+documentation = "https://github.com/nesravomigarbi/examen-civique-france-2026/tree/main/packages/rust"
+readme = "README.md"
+keywords = ["examen-civique", "france", "naturalisation", "open-data", "citizenship"]
+categories = ["science"]
+include = [
+  "src/**/*",
+  "data/**/*",
+  "README.md",
+  "LICENSE",
+  "LICENSE-MIT",
+  "LICENSE-DATA",
+  "LICENSE-NOTICE",
+  "CITATION.cff",
+]
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+
+[lib]
+name = "examen_civique_france"
+path = "src/lib.rs"

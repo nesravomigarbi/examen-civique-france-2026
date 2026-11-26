@@ -1,0 +1,69 @@
+{
+  "name": "examen-civique-france",
+  "version": "1.0.0",
+  "description": "Official French civic exam (examen civique) 2026 question lists and nationality acquisition statistics 2008–2025.",
+  "author": {
+    "name": "Nesra Vomigarbi",
+    "email": "data@examen-civique-test.fr",
+    "url": "https://examen-civique-test.fr/"
+  },
+  "license": "(MIT AND CC-BY-4.0)",
+  "homepage": "https://examen-civique-test.fr/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nesravomigarbi/examen-civique-france-2026.git",
+    "directory": "packages/npm"
+  },
+  "documentation": "https://github.com/nesravomigarbi/examen-civique-france-2026/tree/main/packages/npm",
+  "bugs": {
+    "url": "https://github.com/nesravomigarbi/examen-civique-france-2026/issues"
+  },
+  "keywords": [
+    "examen civique",
+    "French civic exam",
+    "naturalisation",
+    "naturalization",
+    "French citizenship",
+    "nationalité française",
+    "carte de séjour pluriannuelle",
+    "carte de résident",
+    "immigration France",
+    "integration test",
+    "citizenship test",
+    "DGEF",
+    "Insee",
+    "open data",
+    "France"
+  ],
+  "type": "module",
+  "main": "./src/index.cjs",
+  "module": "./src/index.js",
+  "types": "./types/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./types/index.d.ts",
+      "import": "./src/index.js",
+      "require": "./src/index.cjs"
+    },
+    "./data/questions.json": "./data/questions.json",
+    "./data/acquisitions.json": "./data/acquisitions.json",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "src",
+    "data",
+    "types",
+    "LICENSE",
+    "LICENSE-MIT",
+    "LICENSE-DATA",
+    "LICENSE-NOTICE",
+    "README.md",
+    "CITATION.cff"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test test/test.js"
+  }
+}

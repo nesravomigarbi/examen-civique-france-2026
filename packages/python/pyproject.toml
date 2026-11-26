@@ -1,0 +1,74 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "examen-civique-france"
+version = "1.0.0"
+description = "Official French civic exam (examen civique) 2026 question lists and nationality acquisition statistics 2008–2025."
+readme = "README.md"
+# SPDX expression covers both the MIT library code and the CC BY 4.0 bundled data.
+license = "MIT AND CC-BY-4.0"
+license-files = ["LICENSE", "LICENSE-MIT", "LICENSE-DATA", "LICENSE-NOTICE"]
+authors = [
+  { name = "Nesra Vomigarbi", email = "data@examen-civique-test.fr" },
+]
+maintainers = [
+  { name = "Nesra Vomigarbi", email = "data@examen-civique-test.fr" },
+]
+keywords = [
+  "examen civique",
+  "French civic exam",
+  "naturalisation",
+  "naturalization",
+  "French citizenship",
+  "nationalité française",
+  "carte de séjour pluriannuelle",
+  "carte de résident",
+  "immigration France",
+  "integration test",
+  "citizenship test",
+  "DGEF",
+  "Insee",
+  "open data",
+  "France",
+]
+classifiers = [
+  "Development Status :: 5 - Production/Stable",
+  "Intended Audience :: Education",
+  "Intended Audience :: Science/Research",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Topic :: Education",
+  "Topic :: Sociology",
+  "Typing :: Typed",
+]
+requires-python = ">=3.9"
+dependencies = []
+
+[project.urls]
+Homepage = "https://examen-civique-test.fr/"
+Repository = "https://github.com/nesravomigarbi/examen-civique-france-2026"
+Documentation = "https://github.com/nesravomigarbi/examen-civique-france-2026/tree/main/packages/python"
+"Bug Tracker" = "https://github.com/nesravomigarbi/examen-civique-france-2026/issues"
+DOI = "https://doi.org/10.5281/zenodo.24496692"
+
+[tool.hatch.build.targets.sdist]
+include = [
+  "src/examen_civique_france",
+  "tests",
+  "README.md",
+  "LICENSE",
+  "LICENSE-MIT",
+  "LICENSE-DATA",
+  "LICENSE-NOTICE",
+  "CITATION.cff",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/examen_civique_france"]
+

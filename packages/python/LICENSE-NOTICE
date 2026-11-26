@@ -1,0 +1,12 @@
+This package contains both software and data.
+
+- The library code is licensed under the MIT License. See LICENSE-MIT.
+- The bundled dataset (question lists and nationality-acquisition statistics)
+  is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+  See LICENSE-DATA.
+
+Source texts and official figures remain French public sector information
+(Licence Ouverte / etalab-2.0 where the publisher states it). Attribution to
+the original publishers is kept in the bundled records. Compilation, stable
+keys and cross-matching are by Nesra Vomigarbi for Examen Civique Test
+(https://examen-civique-test.fr/).

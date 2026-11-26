@@ -1,0 +1,11 @@
+# Language-package build artifacts (not part of the dataset or sources)
+**/dist/
+**/target/
+**/*.tgz
+**/*.gem
+**/*.crate
+**/vendor/
+**/__pycache__/
+**/*.egg-info/
+**/.pytest_cache/
+.DS_Store

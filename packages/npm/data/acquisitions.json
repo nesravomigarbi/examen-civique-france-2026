@@ -1,0 +1,2099 @@
+[
+  {
+    "year": 2008,
+    "modes": {
+      "registered_total": {
+        "mode_code": "registered_total",
+        "mode_label_fr": "Acquisitions enregistrées (décret + déclaration)",
+        "count": 135117,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_total": {
+        "mode_code": "decree_total",
+        "mode_label_fr": "Par décret (total)",
+        "count": 91918,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_naturalisation": {
+        "mode_code": "decree_naturalisation",
+        "mode_label_fr": "Par décret : naturalisation",
+        "count": 84323,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_reintegration": {
+        "mode_code": "decree_reintegration",
+        "mode_label_fr": "Par décret : réintégration",
+        "count": 7595,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_total": {
+        "mode_code": "declaration_total",
+        "mode_label_fr": "Par déclaration (total)",
+        "count": 43199,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_anticipated_minor": {
+        "mode_code": "declaration_anticipated_minor",
+        "mode_label_fr": "Déclaration anticipée (mineurs nés en France, 13-17 ans)",
+        "count": 25639,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_marriage": {
+        "mode_code": "declaration_marriage",
+        "mode_label_fr": "Déclaration à raison du mariage",
+        "count": 16213,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_ascendant_sibling": {
+        "mode_code": "declaration_ascendant_sibling",
+        "mode_label_fr": "Déclaration ascendant / frère ou sœur de Français (depuis 1er juillet 2016)",
+        "count": null,
+        "note": "Mode did not exist before 1 July 2016",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_other": {
+        "mode_code": "declaration_other",
+        "mode_label_fr": "Autres déclarations",
+        "count": 1347,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "automatic_no_formality": {
+        "mode_code": "automatic_no_formality",
+        "mode_label_fr": "Acquisitions sans formalité",
+        "count": 2335,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "all_acquisitions": {
+        "mode_code": "all_acquisitions",
+        "mode_label_fr": "Ensemble des acquisitions",
+        "count": 137452,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      }
+    }
+  },
+  {
+    "year": 2009,
+    "modes": {
+      "registered_total": {
+        "mode_code": "registered_total",
+        "mode_label_fr": "Acquisitions enregistrées (décret + déclaration)",
+        "count": 133489,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_total": {
+        "mode_code": "decree_total",
+        "mode_label_fr": "Par décret (total)",
+        "count": 91948,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_naturalisation": {
+        "mode_code": "decree_naturalisation",
+        "mode_label_fr": "Par décret : naturalisation",
+        "count": 84730,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_reintegration": {
+        "mode_code": "decree_reintegration",
+        "mode_label_fr": "Par décret : réintégration",
+        "count": 7218,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_total": {
+        "mode_code": "declaration_total",
+        "mode_label_fr": "Par déclaration (total)",
+        "count": 41541,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_anticipated_minor": {
+        "mode_code": "declaration_anticipated_minor",
+        "mode_label_fr": "Déclaration anticipée (mineurs nés en France, 13-17 ans)",
+        "count": 23779,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_marriage": {
+        "mode_code": "declaration_marriage",
+        "mode_label_fr": "Déclaration à raison du mariage",
+        "count": 16355,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_ascendant_sibling": {
+        "mode_code": "declaration_ascendant_sibling",
+        "mode_label_fr": "Déclaration ascendant / frère ou sœur de Français (depuis 1er juillet 2016)",
+        "count": null,
+        "note": "Mode did not exist before 1 July 2016",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_other": {
+        "mode_code": "declaration_other",
+        "mode_label_fr": "Autres déclarations",
+        "count": 1407,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "automatic_no_formality": {
+        "mode_code": "automatic_no_formality",
+        "mode_label_fr": "Acquisitions sans formalité",
+        "count": 2363,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "all_acquisitions": {
+        "mode_code": "all_acquisitions",
+        "mode_label_fr": "Ensemble des acquisitions",
+        "count": 135852,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      }
+    }
+  },
+  {
+    "year": 2010,
+    "modes": {
+      "registered_total": {
+        "mode_code": "registered_total",
+        "mode_label_fr": "Acquisitions enregistrées (décret + déclaration)",
+        "count": 140806,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_total": {
+        "mode_code": "decree_total",
+        "mode_label_fr": "Par décret (total)",
+        "count": 94573,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_naturalisation": {
+        "mode_code": "decree_naturalisation",
+        "mode_label_fr": "Par décret : naturalisation",
+        "count": 88509,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_reintegration": {
+        "mode_code": "decree_reintegration",
+        "mode_label_fr": "Par décret : réintégration",
+        "count": 6064,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_total": {
+        "mode_code": "declaration_total",
+        "mode_label_fr": "Par déclaration (total)",
+        "count": 46233,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_anticipated_minor": {
+        "mode_code": "declaration_anticipated_minor",
+        "mode_label_fr": "Déclaration anticipée (mineurs nés en France, 13-17 ans)",
+        "count": 23068,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_marriage": {
+        "mode_code": "declaration_marriage",
+        "mode_label_fr": "Déclaration à raison du mariage",
+        "count": 21923,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_ascendant_sibling": {
+        "mode_code": "declaration_ascendant_sibling",
+        "mode_label_fr": "Déclaration ascendant / frère ou sœur de Français (depuis 1er juillet 2016)",
+        "count": null,
+        "note": "Mode did not exist before 1 July 2016",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_other": {
+        "mode_code": "declaration_other",
+        "mode_label_fr": "Autres déclarations",
+        "count": 1242,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "automatic_no_formality": {
+        "mode_code": "automatic_no_formality",
+        "mode_label_fr": "Acquisitions sans formalité",
+        "count": 2455,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "all_acquisitions": {
+        "mode_code": "all_acquisitions",
+        "mode_label_fr": "Ensemble des acquisitions",
+        "count": 143261,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      }
+    }
+  },
+  {
+    "year": 2011,
+    "modes": {
+      "registered_total": {
+        "mode_code": "registered_total",
+        "mode_label_fr": "Acquisitions enregistrées (décret + déclaration)",
+        "count": 112447,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_total": {
+        "mode_code": "decree_total",
+        "mode_label_fr": "Par décret (total)",
+        "count": 66273,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_naturalisation": {
+        "mode_code": "decree_naturalisation",
+        "mode_label_fr": "Par décret : naturalisation",
+        "count": 62382,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_reintegration": {
+        "mode_code": "decree_reintegration",
+        "mode_label_fr": "Par décret : réintégration",
+        "count": 3891,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_total": {
+        "mode_code": "declaration_total",
+        "mode_label_fr": "Par déclaration (total)",
+        "count": 46174,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_anticipated_minor": {
+        "mode_code": "declaration_anticipated_minor",
+        "mode_label_fr": "Déclaration anticipée (mineurs nés en France, 13-17 ans)",
+        "count": 23322,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_marriage": {
+        "mode_code": "declaration_marriage",
+        "mode_label_fr": "Déclaration à raison du mariage",
+        "count": 21664,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_ascendant_sibling": {
+        "mode_code": "declaration_ascendant_sibling",
+        "mode_label_fr": "Déclaration ascendant / frère ou sœur de Français (depuis 1er juillet 2016)",
+        "count": null,
+        "note": "Mode did not exist before 1 July 2016",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_other": {
+        "mode_code": "declaration_other",
+        "mode_label_fr": "Autres déclarations",
+        "count": 1188,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "automatic_no_formality": {
+        "mode_code": "automatic_no_formality",
+        "mode_label_fr": "Acquisitions sans formalité",
+        "count": 2122,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "all_acquisitions": {
+        "mode_code": "all_acquisitions",
+        "mode_label_fr": "Ensemble des acquisitions",
+        "count": 114569,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      }
+    }
+  },
+  {
+    "year": 2012,
+    "modes": {
+      "registered_total": {
+        "mode_code": "registered_total",
+        "mode_label_fr": "Acquisitions enregistrées (décret + déclaration)",
+        "count": 93823,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_total": {
+        "mode_code": "decree_total",
+        "mode_label_fr": "Par décret (total)",
+        "count": 46003,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_naturalisation": {
+        "mode_code": "decree_naturalisation",
+        "mode_label_fr": "Par décret : naturalisation",
+        "count": 43067,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_reintegration": {
+        "mode_code": "decree_reintegration",
+        "mode_label_fr": "Par décret : réintégration",
+        "count": 2936,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_total": {
+        "mode_code": "declaration_total",
+        "mode_label_fr": "Par déclaration (total)",
+        "count": 47820,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_anticipated_minor": {
+        "mode_code": "declaration_anticipated_minor",
+        "mode_label_fr": "Déclaration anticipée (mineurs nés en France, 13-17 ans)",
+        "count": 24014,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_marriage": {
+        "mode_code": "declaration_marriage",
+        "mode_label_fr": "Déclaration à raison du mariage",
+        "count": 22382,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_ascendant_sibling": {
+        "mode_code": "declaration_ascendant_sibling",
+        "mode_label_fr": "Déclaration ascendant / frère ou sœur de Français (depuis 1er juillet 2016)",
+        "count": null,
+        "note": "Mode did not exist before 1 July 2016",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_other": {
+        "mode_code": "declaration_other",
+        "mode_label_fr": "Autres déclarations",
+        "count": 1424,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "automatic_no_formality": {
+        "mode_code": "automatic_no_formality",
+        "mode_label_fr": "Acquisitions sans formalité",
+        "count": 2228,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "all_acquisitions": {
+        "mode_code": "all_acquisitions",
+        "mode_label_fr": "Ensemble des acquisitions",
+        "count": 96051,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      }
+    }
+  },
+  {
+    "year": 2013,
+    "modes": {
+      "registered_total": {
+        "mode_code": "registered_total",
+        "mode_label_fr": "Acquisitions enregistrées (décret + déclaration)",
+        "count": 95196,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_total": {
+        "mode_code": "decree_total",
+        "mode_label_fr": "Par décret (total)",
+        "count": 52207,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_naturalisation": {
+        "mode_code": "decree_naturalisation",
+        "mode_label_fr": "Par décret : naturalisation",
+        "count": 49757,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_reintegration": {
+        "mode_code": "decree_reintegration",
+        "mode_label_fr": "Par décret : réintégration",
+        "count": 2450,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_total": {
+        "mode_code": "declaration_total",
+        "mode_label_fr": "Par déclaration (total)",
+        "count": 42989,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_anticipated_minor": {
+        "mode_code": "declaration_anticipated_minor",
+        "mode_label_fr": "Déclaration anticipée (mineurs nés en France, 13-17 ans)",
+        "count": 24099,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_marriage": {
+        "mode_code": "declaration_marriage",
+        "mode_label_fr": "Déclaration à raison du mariage",
+        "count": 17513,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_ascendant_sibling": {
+        "mode_code": "declaration_ascendant_sibling",
+        "mode_label_fr": "Déclaration ascendant / frère ou sœur de Français (depuis 1er juillet 2016)",
+        "count": null,
+        "note": "Mode did not exist before 1 July 2016",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_other": {
+        "mode_code": "declaration_other",
+        "mode_label_fr": "Autres déclarations",
+        "count": 1377,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "automatic_no_formality": {
+        "mode_code": "automatic_no_formality",
+        "mode_label_fr": "Acquisitions sans formalité",
+        "count": 2080,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "all_acquisitions": {
+        "mode_code": "all_acquisitions",
+        "mode_label_fr": "Ensemble des acquisitions",
+        "count": 97276,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      }
+    }
+  },
+  {
+    "year": 2014,
+    "modes": {
+      "registered_total": {
+        "mode_code": "registered_total",
+        "mode_label_fr": "Acquisitions enregistrées (décret + déclaration)",
+        "count": 103609,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_total": {
+        "mode_code": "decree_total",
+        "mode_label_fr": "Par décret (total)",
+        "count": 57610,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_naturalisation": {
+        "mode_code": "decree_naturalisation",
+        "mode_label_fr": "Par décret : naturalisation",
+        "count": 55010,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_reintegration": {
+        "mode_code": "decree_reintegration",
+        "mode_label_fr": "Par décret : réintégration",
+        "count": 2600,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_total": {
+        "mode_code": "declaration_total",
+        "mode_label_fr": "Par déclaration (total)",
+        "count": 45999,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_anticipated_minor": {
+        "mode_code": "declaration_anticipated_minor",
+        "mode_label_fr": "Déclaration anticipée (mineurs nés en France, 13-17 ans)",
+        "count": 25043,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_marriage": {
+        "mode_code": "declaration_marriage",
+        "mode_label_fr": "Déclaration à raison du mariage",
+        "count": 19725,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_ascendant_sibling": {
+        "mode_code": "declaration_ascendant_sibling",
+        "mode_label_fr": "Déclaration ascendant / frère ou sœur de Français (depuis 1er juillet 2016)",
+        "count": null,
+        "note": "Mode did not exist before 1 July 2016",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_other": {
+        "mode_code": "declaration_other",
+        "mode_label_fr": "Autres déclarations",
+        "count": 1231,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "automatic_no_formality": {
+        "mode_code": "automatic_no_formality",
+        "mode_label_fr": "Acquisitions sans formalité",
+        "count": 2004,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "all_acquisitions": {
+        "mode_code": "all_acquisitions",
+        "mode_label_fr": "Ensemble des acquisitions",
+        "count": 105613,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      }
+    }
+  },
+  {
+    "year": 2015,
+    "modes": {
+      "registered_total": {
+        "mode_code": "registered_total",
+        "mode_label_fr": "Acquisitions enregistrées (décret + déclaration)",
+        "count": 111878,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_total": {
+        "mode_code": "decree_total",
+        "mode_label_fr": "Par décret (total)",
+        "count": 61564,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_naturalisation": {
+        "mode_code": "decree_naturalisation",
+        "mode_label_fr": "Par décret : naturalisation",
+        "count": 58858,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_reintegration": {
+        "mode_code": "decree_reintegration",
+        "mode_label_fr": "Par décret : réintégration",
+        "count": 2706,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_total": {
+        "mode_code": "declaration_total",
+        "mode_label_fr": "Par déclaration (total)",
+        "count": 50314,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_anticipated_minor": {
+        "mode_code": "declaration_anticipated_minor",
+        "mode_label_fr": "Déclaration anticipée (mineurs nés en France, 13-17 ans)",
+        "count": 24159,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_marriage": {
+        "mode_code": "declaration_marriage",
+        "mode_label_fr": "Déclaration à raison du mariage",
+        "count": 25044,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_ascendant_sibling": {
+        "mode_code": "declaration_ascendant_sibling",
+        "mode_label_fr": "Déclaration ascendant / frère ou sœur de Français (depuis 1er juillet 2016)",
+        "count": null,
+        "note": "Mode did not exist before 1 July 2016",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_other": {
+        "mode_code": "declaration_other",
+        "mode_label_fr": "Autres déclarations",
+        "count": 1111,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "automatic_no_formality": {
+        "mode_code": "automatic_no_formality",
+        "mode_label_fr": "Acquisitions sans formalité",
+        "count": 1730,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "all_acquisitions": {
+        "mode_code": "all_acquisitions",
+        "mode_label_fr": "Ensemble des acquisitions",
+        "count": 113608,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      }
+    }
+  },
+  {
+    "year": 2016,
+    "modes": {
+      "registered_total": {
+        "mode_code": "registered_total",
+        "mode_label_fr": "Acquisitions enregistrées (décret + déclaration)",
+        "count": 117084,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_total": {
+        "mode_code": "decree_total",
+        "mode_label_fr": "Par décret (total)",
+        "count": 68067,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_naturalisation": {
+        "mode_code": "decree_naturalisation",
+        "mode_label_fr": "Par décret : naturalisation",
+        "count": 65524,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_reintegration": {
+        "mode_code": "decree_reintegration",
+        "mode_label_fr": "Par décret : réintégration",
+        "count": 2543,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_total": {
+        "mode_code": "declaration_total",
+        "mode_label_fr": "Par déclaration (total)",
+        "count": 49017,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_anticipated_minor": {
+        "mode_code": "declaration_anticipated_minor",
+        "mode_label_fr": "Déclaration anticipée (mineurs nés en France, 13-17 ans)",
+        "count": 27100,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_marriage": {
+        "mode_code": "declaration_marriage",
+        "mode_label_fr": "Déclaration à raison du mariage",
+        "count": 20702,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_ascendant_sibling": {
+        "mode_code": "declaration_ascendant_sibling",
+        "mode_label_fr": "Déclaration ascendant / frère ou sœur de Français (depuis 1er juillet 2016)",
+        "count": 6,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_other": {
+        "mode_code": "declaration_other",
+        "mode_label_fr": "Autres déclarations",
+        "count": 1209,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "automatic_no_formality": {
+        "mode_code": "automatic_no_formality",
+        "mode_label_fr": "Acquisitions sans formalité",
+        "count": 2068,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "all_acquisitions": {
+        "mode_code": "all_acquisitions",
+        "mode_label_fr": "Ensemble des acquisitions",
+        "count": 119152,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      }
+    }
+  },
+  {
+    "year": 2017,
+    "modes": {
+      "registered_total": {
+        "mode_code": "registered_total",
+        "mode_label_fr": "Acquisitions enregistrées (décret + déclaration)",
+        "count": 112326,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_total": {
+        "mode_code": "decree_total",
+        "mode_label_fr": "Par décret (total)",
+        "count": 65654,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_naturalisation": {
+        "mode_code": "decree_naturalisation",
+        "mode_label_fr": "Par décret : naturalisation",
+        "count": 63128,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_reintegration": {
+        "mode_code": "decree_reintegration",
+        "mode_label_fr": "Par décret : réintégration",
+        "count": 2526,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_total": {
+        "mode_code": "declaration_total",
+        "mode_label_fr": "Par déclaration (total)",
+        "count": 46672,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_anticipated_minor": {
+        "mode_code": "declaration_anticipated_minor",
+        "mode_label_fr": "Déclaration anticipée (mineurs nés en France, 13-17 ans)",
+        "count": 27501,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_marriage": {
+        "mode_code": "declaration_marriage",
+        "mode_label_fr": "Déclaration à raison du mariage",
+        "count": 17476,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_ascendant_sibling": {
+        "mode_code": "declaration_ascendant_sibling",
+        "mode_label_fr": "Déclaration ascendant / frère ou sœur de Français (depuis 1er juillet 2016)",
+        "count": 544,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_other": {
+        "mode_code": "declaration_other",
+        "mode_label_fr": "Autres déclarations",
+        "count": 1151,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "automatic_no_formality": {
+        "mode_code": "automatic_no_formality",
+        "mode_label_fr": "Acquisitions sans formalité",
+        "count": 1948,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "all_acquisitions": {
+        "mode_code": "all_acquisitions",
+        "mode_label_fr": "Ensemble des acquisitions",
+        "count": 114274,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      }
+    }
+  },
+  {
+    "year": 2018,
+    "modes": {
+      "registered_total": {
+        "mode_code": "registered_total",
+        "mode_label_fr": "Acquisitions enregistrées (décret + déclaration)",
+        "count": 108180,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_total": {
+        "mode_code": "decree_total",
+        "mode_label_fr": "Par décret (total)",
+        "count": 55830,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_naturalisation": {
+        "mode_code": "decree_naturalisation",
+        "mode_label_fr": "Par décret : naturalisation",
+        "count": 54104,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_reintegration": {
+        "mode_code": "decree_reintegration",
+        "mode_label_fr": "Par décret : réintégration",
+        "count": 1726,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_total": {
+        "mode_code": "declaration_total",
+        "mode_label_fr": "Par déclaration (total)",
+        "count": 52350,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_anticipated_minor": {
+        "mode_code": "declaration_anticipated_minor",
+        "mode_label_fr": "Déclaration anticipée (mineurs nés en France, 13-17 ans)",
+        "count": 29340,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_marriage": {
+        "mode_code": "declaration_marriage",
+        "mode_label_fr": "Déclaration à raison du mariage",
+        "count": 21000,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_ascendant_sibling": {
+        "mode_code": "declaration_ascendant_sibling",
+        "mode_label_fr": "Déclaration ascendant / frère ou sœur de Français (depuis 1er juillet 2016)",
+        "count": 948,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_other": {
+        "mode_code": "declaration_other",
+        "mode_label_fr": "Autres déclarations",
+        "count": 1062,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "automatic_no_formality": {
+        "mode_code": "automatic_no_formality",
+        "mode_label_fr": "Acquisitions sans formalité",
+        "count": 1834,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "all_acquisitions": {
+        "mode_code": "all_acquisitions",
+        "mode_label_fr": "Ensemble des acquisitions",
+        "count": 110014,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      }
+    }
+  },
+  {
+    "year": 2019,
+    "modes": {
+      "registered_total": {
+        "mode_code": "registered_total",
+        "mode_label_fr": "Acquisitions enregistrées (décret + déclaration)",
+        "count": 107979,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_total": {
+        "mode_code": "decree_total",
+        "mode_label_fr": "Par décret (total)",
+        "count": 49671,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_naturalisation": {
+        "mode_code": "decree_naturalisation",
+        "mode_label_fr": "Par décret : naturalisation",
+        "count": 48358,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_reintegration": {
+        "mode_code": "decree_reintegration",
+        "mode_label_fr": "Par décret : réintégration",
+        "count": 1313,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_total": {
+        "mode_code": "declaration_total",
+        "mode_label_fr": "Par déclaration (total)",
+        "count": 58308,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_anticipated_minor": {
+        "mode_code": "declaration_anticipated_minor",
+        "mode_label_fr": "Déclaration anticipée (mineurs nés en France, 13-17 ans)",
+        "count": 30041,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_marriage": {
+        "mode_code": "declaration_marriage",
+        "mode_label_fr": "Déclaration à raison du mariage",
+        "count": 25262,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_ascendant_sibling": {
+        "mode_code": "declaration_ascendant_sibling",
+        "mode_label_fr": "Déclaration ascendant / frère ou sœur de Français (depuis 1er juillet 2016)",
+        "count": 1777,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_other": {
+        "mode_code": "declaration_other",
+        "mode_label_fr": "Autres déclarations",
+        "count": 1228,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "automatic_no_formality": {
+        "mode_code": "automatic_no_formality",
+        "mode_label_fr": "Acquisitions sans formalité",
+        "count": 1842,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "all_acquisitions": {
+        "mode_code": "all_acquisitions",
+        "mode_label_fr": "Ensemble des acquisitions",
+        "count": 109821,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      }
+    }
+  },
+  {
+    "year": 2020,
+    "modes": {
+      "registered_total": {
+        "mode_code": "registered_total",
+        "mode_label_fr": "Acquisitions enregistrées (décret + déclaration)",
+        "count": 83161,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_total": {
+        "mode_code": "decree_total",
+        "mode_label_fr": "Par décret (total)",
+        "count": 41927,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_naturalisation": {
+        "mode_code": "decree_naturalisation",
+        "mode_label_fr": "Par décret : naturalisation",
+        "count": 41035,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_reintegration": {
+        "mode_code": "decree_reintegration",
+        "mode_label_fr": "Par décret : réintégration",
+        "count": 892,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_total": {
+        "mode_code": "declaration_total",
+        "mode_label_fr": "Par déclaration (total)",
+        "count": 41234,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_anticipated_minor": {
+        "mode_code": "declaration_anticipated_minor",
+        "mode_label_fr": "Déclaration anticipée (mineurs nés en France, 13-17 ans)",
+        "count": 20826,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_marriage": {
+        "mode_code": "declaration_marriage",
+        "mode_label_fr": "Déclaration à raison du mariage",
+        "count": 18223,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_ascendant_sibling": {
+        "mode_code": "declaration_ascendant_sibling",
+        "mode_label_fr": "Déclaration ascendant / frère ou sœur de Français (depuis 1er juillet 2016)",
+        "count": 1221,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_other": {
+        "mode_code": "declaration_other",
+        "mode_label_fr": "Autres déclarations",
+        "count": 964,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "automatic_no_formality": {
+        "mode_code": "automatic_no_formality",
+        "mode_label_fr": "Acquisitions sans formalité",
+        "count": 1703,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "all_acquisitions": {
+        "mode_code": "all_acquisitions",
+        "mode_label_fr": "Ensemble des acquisitions",
+        "count": 84864,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      }
+    }
+  },
+  {
+    "year": 2021,
+    "modes": {
+      "registered_total": {
+        "mode_code": "registered_total",
+        "mode_label_fr": "Acquisitions enregistrées (décret + déclaration)",
+        "count": 126188,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_total": {
+        "mode_code": "decree_total",
+        "mode_label_fr": "Par décret (total)",
+        "count": 75249,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_naturalisation": {
+        "mode_code": "decree_naturalisation",
+        "mode_label_fr": "Par décret : naturalisation",
+        "count": 74048,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_reintegration": {
+        "mode_code": "decree_reintegration",
+        "mode_label_fr": "Par décret : réintégration",
+        "count": 1201,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_total": {
+        "mode_code": "declaration_total",
+        "mode_label_fr": "Par déclaration (total)",
+        "count": 50939,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_anticipated_minor": {
+        "mode_code": "declaration_anticipated_minor",
+        "mode_label_fr": "Déclaration anticipée (mineurs nés en France, 13-17 ans)",
+        "count": 30749,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_marriage": {
+        "mode_code": "declaration_marriage",
+        "mode_label_fr": "Déclaration à raison du mariage",
+        "count": 17280,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_ascendant_sibling": {
+        "mode_code": "declaration_ascendant_sibling",
+        "mode_label_fr": "Déclaration ascendant / frère ou sœur de Français (depuis 1er juillet 2016)",
+        "count": 1563,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_other": {
+        "mode_code": "declaration_other",
+        "mode_label_fr": "Autres déclarations",
+        "count": 1347,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "automatic_no_formality": {
+        "mode_code": "automatic_no_formality",
+        "mode_label_fr": "Acquisitions sans formalité",
+        "count": 2372,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "all_acquisitions": {
+        "mode_code": "all_acquisitions",
+        "mode_label_fr": "Ensemble des acquisitions",
+        "count": 128560,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_children_collective_effect": {
+        "mode_code": "decree_children_collective_effect",
+        "mode_label_fr": "Par décret : dont enfants mineurs (effet collectif)",
+        "count": 20578,
+        "note": "",
+        "source": "DGEF, L'accès à la nationalité française pour l'année 2025, figure 2",
+        "source_url": "https://www.immigration.interieur.gouv.fr/chiffres-de-limmigration-en-france/lacces-a-nationalite-francaise-pour-lannee-2025-moins-dacquisitions-de-nationalite-francaise-par",
+        "checked_on": "2026-11-24"
+      },
+      "marriage_children_collective_effect": {
+        "mode_code": "marriage_children_collective_effect",
+        "mode_label_fr": "Mariage : dont enfants (effet collectif)",
+        "count": 500,
+        "note": "",
+        "source": "DGEF, L'accès à la nationalité française pour l'année 2025, figure 2",
+        "source_url": "https://www.immigration.interieur.gouv.fr/chiffres-de-limmigration-en-france/lacces-a-nationalite-francaise-pour-lannee-2025-moins-dacquisitions-de-nationalite-francaise-par",
+        "checked_on": "2026-11-24"
+      },
+      "ascendant_sibling_children_collective_effect": {
+        "mode_code": "ascendant_sibling_children_collective_effect",
+        "mode_label_fr": "Ascendants et fratries : dont enfants",
+        "count": 146,
+        "note": "",
+        "source": "DGEF, L'accès à la nationalité française pour l'année 2025, figure 2",
+        "source_url": "https://www.immigration.interieur.gouv.fr/chiffres-de-limmigration-en-france/lacces-a-nationalite-francaise-pour-lannee-2025-moins-dacquisitions-de-nationalite-francaise-par",
+        "checked_on": "2026-11-24"
+      },
+      "interior_ministry_total": {
+        "mode_code": "interior_ministry_total",
+        "mode_label_fr": "Procédures du ministère de l'Intérieur (décret + mariage + ascendants/fratries)",
+        "count": 94092,
+        "note": "",
+        "source": "DGEF, L'accès à la nationalité française pour l'année 2025, figure 2",
+        "source_url": "https://www.immigration.interieur.gouv.fr/chiffres-de-limmigration-en-france/lacces-a-nationalite-francaise-pour-lannee-2025-moins-dacquisitions-de-nationalite-francaise-par",
+        "checked_on": "2026-11-24"
+      },
+      "decree_adults_derived": {
+        "mode_code": "decree_adults_derived",
+        "mode_label_fr": "Par décret : adultes (calcul = total décret - enfants)",
+        "count": 54671,
+        "note": "Derived by the dataset author",
+        "source": "Calculated from DGEF figure 2",
+        "source_url": "https://www.immigration.interieur.gouv.fr/chiffres-de-limmigration-en-france/lacces-a-nationalite-francaise-pour-lannee-2025-moins-dacquisitions-de-nationalite-francaise-par",
+        "checked_on": "2026-11-24"
+      }
+    }
+  },
+  {
+    "year": 2022,
+    "modes": {
+      "registered_total": {
+        "mode_code": "registered_total",
+        "mode_label_fr": "Acquisitions enregistrées (décret + déclaration)",
+        "count": 111967,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_total": {
+        "mode_code": "decree_total",
+        "mode_label_fr": "Par décret (total)",
+        "count": 60556,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_naturalisation": {
+        "mode_code": "decree_naturalisation",
+        "mode_label_fr": "Par décret : naturalisation",
+        "count": 59904,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_reintegration": {
+        "mode_code": "decree_reintegration",
+        "mode_label_fr": "Par décret : réintégration",
+        "count": 652,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_total": {
+        "mode_code": "declaration_total",
+        "mode_label_fr": "Par déclaration (total)",
+        "count": 51411,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_anticipated_minor": {
+        "mode_code": "declaration_anticipated_minor",
+        "mode_label_fr": "Déclaration anticipée (mineurs nés en France, 13-17 ans)",
+        "count": 32020,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_marriage": {
+        "mode_code": "declaration_marriage",
+        "mode_label_fr": "Déclaration à raison du mariage",
+        "count": 16465,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_ascendant_sibling": {
+        "mode_code": "declaration_ascendant_sibling",
+        "mode_label_fr": "Déclaration ascendant / frère ou sœur de Français (depuis 1er juillet 2016)",
+        "count": 1690,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_other": {
+        "mode_code": "declaration_other",
+        "mode_label_fr": "Autres déclarations",
+        "count": 1236,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "automatic_no_formality": {
+        "mode_code": "automatic_no_formality",
+        "mode_label_fr": "Acquisitions sans formalité",
+        "count": 2516,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "all_acquisitions": {
+        "mode_code": "all_acquisitions",
+        "mode_label_fr": "Ensemble des acquisitions",
+        "count": 114483,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_children_collective_effect": {
+        "mode_code": "decree_children_collective_effect",
+        "mode_label_fr": "Par décret : dont enfants mineurs (effet collectif)",
+        "count": 15643,
+        "note": "",
+        "source": "DGEF, L'accès à la nationalité française pour l'année 2025, figure 2",
+        "source_url": "https://www.immigration.interieur.gouv.fr/chiffres-de-limmigration-en-france/lacces-a-nationalite-francaise-pour-lannee-2025-moins-dacquisitions-de-nationalite-francaise-par",
+        "checked_on": "2026-11-24"
+      },
+      "marriage_children_collective_effect": {
+        "mode_code": "marriage_children_collective_effect",
+        "mode_label_fr": "Mariage : dont enfants (effet collectif)",
+        "count": 504,
+        "note": "",
+        "source": "DGEF, L'accès à la nationalité française pour l'année 2025, figure 2",
+        "source_url": "https://www.immigration.interieur.gouv.fr/chiffres-de-limmigration-en-france/lacces-a-nationalite-francaise-pour-lannee-2025-moins-dacquisitions-de-nationalite-francaise-par",
+        "checked_on": "2026-11-24"
+      },
+      "ascendant_sibling_children_collective_effect": {
+        "mode_code": "ascendant_sibling_children_collective_effect",
+        "mode_label_fr": "Ascendants et fratries : dont enfants",
+        "count": 168,
+        "note": "",
+        "source": "DGEF, L'accès à la nationalité française pour l'année 2025, figure 2",
+        "source_url": "https://www.immigration.interieur.gouv.fr/chiffres-de-limmigration-en-france/lacces-a-nationalite-francaise-pour-lannee-2025-moins-dacquisitions-de-nationalite-francaise-par",
+        "checked_on": "2026-11-24"
+      },
+      "interior_ministry_total": {
+        "mode_code": "interior_ministry_total",
+        "mode_label_fr": "Procédures du ministère de l'Intérieur (décret + mariage + ascendants/fratries)",
+        "count": 78711,
+        "note": "",
+        "source": "DGEF, L'accès à la nationalité française pour l'année 2025, figure 2",
+        "source_url": "https://www.immigration.interieur.gouv.fr/chiffres-de-limmigration-en-france/lacces-a-nationalite-francaise-pour-lannee-2025-moins-dacquisitions-de-nationalite-francaise-par",
+        "checked_on": "2026-11-24"
+      },
+      "decree_adults_derived": {
+        "mode_code": "decree_adults_derived",
+        "mode_label_fr": "Par décret : adultes (calcul = total décret - enfants)",
+        "count": 44913,
+        "note": "Derived by the dataset author",
+        "source": "Calculated from DGEF figure 2",
+        "source_url": "https://www.immigration.interieur.gouv.fr/chiffres-de-limmigration-en-france/lacces-a-nationalite-francaise-pour-lannee-2025-moins-dacquisitions-de-nationalite-francaise-par",
+        "checked_on": "2026-11-24"
+      }
+    }
+  },
+  {
+    "year": 2023,
+    "modes": {
+      "registered_total": {
+        "mode_code": "registered_total",
+        "mode_label_fr": "Acquisitions enregistrées (décret + déclaration)",
+        "count": 95169,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_total": {
+        "mode_code": "decree_total",
+        "mode_label_fr": "Par décret (total)",
+        "count": 40064,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_naturalisation": {
+        "mode_code": "decree_naturalisation",
+        "mode_label_fr": "Par décret : naturalisation",
+        "count": 39721,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_reintegration": {
+        "mode_code": "decree_reintegration",
+        "mode_label_fr": "Par décret : réintégration",
+        "count": 343,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_total": {
+        "mode_code": "declaration_total",
+        "mode_label_fr": "Par déclaration (total)",
+        "count": 55105,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_anticipated_minor": {
+        "mode_code": "declaration_anticipated_minor",
+        "mode_label_fr": "Déclaration anticipée (mineurs nés en France, 13-17 ans)",
+        "count": 32533,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_marriage": {
+        "mode_code": "declaration_marriage",
+        "mode_label_fr": "Déclaration à raison du mariage",
+        "count": 19455,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_ascendant_sibling": {
+        "mode_code": "declaration_ascendant_sibling",
+        "mode_label_fr": "Déclaration ascendant / frère ou sœur de Français (depuis 1er juillet 2016)",
+        "count": 2121,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_other": {
+        "mode_code": "declaration_other",
+        "mode_label_fr": "Autres déclarations",
+        "count": 996,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "automatic_no_formality": {
+        "mode_code": "automatic_no_formality",
+        "mode_label_fr": "Acquisitions sans formalité",
+        "count": 2119,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "all_acquisitions": {
+        "mode_code": "all_acquisitions",
+        "mode_label_fr": "Ensemble des acquisitions",
+        "count": 97288,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_children_collective_effect": {
+        "mode_code": "decree_children_collective_effect",
+        "mode_label_fr": "Par décret : dont enfants mineurs (effet collectif)",
+        "count": 9697,
+        "note": "",
+        "source": "DGEF, L'accès à la nationalité française pour l'année 2025, figure 2",
+        "source_url": "https://www.immigration.interieur.gouv.fr/chiffres-de-limmigration-en-france/lacces-a-nationalite-francaise-pour-lannee-2025-moins-dacquisitions-de-nationalite-francaise-par",
+        "checked_on": "2026-11-24"
+      },
+      "marriage_children_collective_effect": {
+        "mode_code": "marriage_children_collective_effect",
+        "mode_label_fr": "Mariage : dont enfants (effet collectif)",
+        "count": 534,
+        "note": "",
+        "source": "DGEF, L'accès à la nationalité française pour l'année 2025, figure 2",
+        "source_url": "https://www.immigration.interieur.gouv.fr/chiffres-de-limmigration-en-france/lacces-a-nationalite-francaise-pour-lannee-2025-moins-dacquisitions-de-nationalite-francaise-par",
+        "checked_on": "2026-11-24"
+      },
+      "ascendant_sibling_children_collective_effect": {
+        "mode_code": "ascendant_sibling_children_collective_effect",
+        "mode_label_fr": "Ascendants et fratries : dont enfants",
+        "count": 125,
+        "note": "",
+        "source": "DGEF, L'accès à la nationalité française pour l'année 2025, figure 2",
+        "source_url": "https://www.immigration.interieur.gouv.fr/chiffres-de-limmigration-en-france/lacces-a-nationalite-francaise-pour-lannee-2025-moins-dacquisitions-de-nationalite-francaise-par",
+        "checked_on": "2026-11-24"
+      },
+      "interior_ministry_total": {
+        "mode_code": "interior_ministry_total",
+        "mode_label_fr": "Procédures du ministère de l'Intérieur (décret + mariage + ascendants/fratries)",
+        "count": 61640,
+        "note": "",
+        "source": "DGEF, L'accès à la nationalité française pour l'année 2025, figure 2",
+        "source_url": "https://www.immigration.interieur.gouv.fr/chiffres-de-limmigration-en-france/lacces-a-nationalite-francaise-pour-lannee-2025-moins-dacquisitions-de-nationalite-francaise-par",
+        "checked_on": "2026-11-24"
+      },
+      "decree_adults_derived": {
+        "mode_code": "decree_adults_derived",
+        "mode_label_fr": "Par décret : adultes (calcul = total décret - enfants)",
+        "count": 30367,
+        "note": "Derived by the dataset author",
+        "source": "Calculated from DGEF figure 2",
+        "source_url": "https://www.immigration.interieur.gouv.fr/chiffres-de-limmigration-en-france/lacces-a-nationalite-francaise-pour-lannee-2025-moins-dacquisitions-de-nationalite-francaise-par",
+        "checked_on": "2026-11-24"
+      }
+    }
+  },
+  {
+    "year": 2024,
+    "modes": {
+      "registered_total": {
+        "mode_code": "registered_total",
+        "mode_label_fr": "Acquisitions enregistrées (décret + déclaration)",
+        "count": 101509,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_total": {
+        "mode_code": "decree_total",
+        "mode_label_fr": "Par décret (total)",
+        "count": 48829,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_naturalisation": {
+        "mode_code": "decree_naturalisation",
+        "mode_label_fr": "Par décret : naturalisation",
+        "count": 48494,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_reintegration": {
+        "mode_code": "decree_reintegration",
+        "mode_label_fr": "Par décret : réintégration",
+        "count": 335,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_total": {
+        "mode_code": "declaration_total",
+        "mode_label_fr": "Par déclaration (total)",
+        "count": 52680,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_anticipated_minor": {
+        "mode_code": "declaration_anticipated_minor",
+        "mode_label_fr": "Déclaration anticipée (mineurs nés en France, 13-17 ans)",
+        "count": 33727,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_marriage": {
+        "mode_code": "declaration_marriage",
+        "mode_label_fr": "Déclaration à raison du mariage",
+        "count": 15910,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_ascendant_sibling": {
+        "mode_code": "declaration_ascendant_sibling",
+        "mode_label_fr": "Déclaration ascendant / frère ou sœur de Français (depuis 1er juillet 2016)",
+        "count": 2006,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_other": {
+        "mode_code": "declaration_other",
+        "mode_label_fr": "Autres déclarations",
+        "count": 1037,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "automatic_no_formality": {
+        "mode_code": "automatic_no_formality",
+        "mode_label_fr": "Acquisitions sans formalité",
+        "count": 2152,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "all_acquisitions": {
+        "mode_code": "all_acquisitions",
+        "mode_label_fr": "Ensemble des acquisitions",
+        "count": 103661,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_children_collective_effect": {
+        "mode_code": "decree_children_collective_effect",
+        "mode_label_fr": "Par décret : dont enfants mineurs (effet collectif)",
+        "count": 11295,
+        "note": "",
+        "source": "DGEF, L'accès à la nationalité française pour l'année 2025, figure 2",
+        "source_url": "https://www.immigration.interieur.gouv.fr/chiffres-de-limmigration-en-france/lacces-a-nationalite-francaise-pour-lannee-2025-moins-dacquisitions-de-nationalite-francaise-par",
+        "checked_on": "2026-11-24"
+      },
+      "marriage_children_collective_effect": {
+        "mode_code": "marriage_children_collective_effect",
+        "mode_label_fr": "Mariage : dont enfants (effet collectif)",
+        "count": 479,
+        "note": "",
+        "source": "DGEF, L'accès à la nationalité française pour l'année 2025, figure 2",
+        "source_url": "https://www.immigration.interieur.gouv.fr/chiffres-de-limmigration-en-france/lacces-a-nationalite-francaise-pour-lannee-2025-moins-dacquisitions-de-nationalite-francaise-par",
+        "checked_on": "2026-11-24"
+      },
+      "ascendant_sibling_children_collective_effect": {
+        "mode_code": "ascendant_sibling_children_collective_effect",
+        "mode_label_fr": "Ascendants et fratries : dont enfants",
+        "count": 127,
+        "note": "",
+        "source": "DGEF, L'accès à la nationalité française pour l'année 2025, figure 2",
+        "source_url": "https://www.immigration.interieur.gouv.fr/chiffres-de-limmigration-en-france/lacces-a-nationalite-francaise-pour-lannee-2025-moins-dacquisitions-de-nationalite-francaise-par",
+        "checked_on": "2026-11-24"
+      },
+      "interior_ministry_total": {
+        "mode_code": "interior_ministry_total",
+        "mode_label_fr": "Procédures du ministère de l'Intérieur (décret + mariage + ascendants/fratries)",
+        "count": 66745,
+        "note": "",
+        "source": "DGEF, L'accès à la nationalité française pour l'année 2025, figure 2",
+        "source_url": "https://www.immigration.interieur.gouv.fr/chiffres-de-limmigration-en-france/lacces-a-nationalite-francaise-pour-lannee-2025-moins-dacquisitions-de-nationalite-francaise-par",
+        "checked_on": "2026-11-24"
+      },
+      "decree_adults_derived": {
+        "mode_code": "decree_adults_derived",
+        "mode_label_fr": "Par décret : adultes (calcul = total décret - enfants)",
+        "count": 37534,
+        "note": "Derived by the dataset author",
+        "source": "Calculated from DGEF figure 2",
+        "source_url": "https://www.immigration.interieur.gouv.fr/chiffres-de-limmigration-en-france/lacces-a-nationalite-francaise-pour-lannee-2025-moins-dacquisitions-de-nationalite-francaise-par",
+        "checked_on": "2026-11-24"
+      }
+    }
+  },
+  {
+    "year": 2025,
+    "modes": {
+      "registered_total": {
+        "mode_code": "registered_total",
+        "mode_label_fr": "Acquisitions enregistrées (décret + déclaration)",
+        "count": 96158,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_total": {
+        "mode_code": "decree_total",
+        "mode_label_fr": "Par décret (total)",
+        "count": 42246,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_naturalisation": {
+        "mode_code": "decree_naturalisation",
+        "mode_label_fr": "Par décret : naturalisation",
+        "count": 42063,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_reintegration": {
+        "mode_code": "decree_reintegration",
+        "mode_label_fr": "Par décret : réintégration",
+        "count": 183,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_total": {
+        "mode_code": "declaration_total",
+        "mode_label_fr": "Par déclaration (total)",
+        "count": 53912,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_anticipated_minor": {
+        "mode_code": "declaration_anticipated_minor",
+        "mode_label_fr": "Déclaration anticipée (mineurs nés en France, 13-17 ans)",
+        "count": 32923,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_marriage": {
+        "mode_code": "declaration_marriage",
+        "mode_label_fr": "Déclaration à raison du mariage",
+        "count": 17579,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_ascendant_sibling": {
+        "mode_code": "declaration_ascendant_sibling",
+        "mode_label_fr": "Déclaration ascendant / frère ou sœur de Français (depuis 1er juillet 2016)",
+        "count": 2410,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "declaration_other": {
+        "mode_code": "declaration_other",
+        "mode_label_fr": "Autres déclarations",
+        "count": 1000,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "automatic_no_formality": {
+        "mode_code": "automatic_no_formality",
+        "mode_label_fr": "Acquisitions sans formalité",
+        "count": 1981,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "all_acquisitions": {
+        "mode_code": "all_acquisitions",
+        "mode_label_fr": "Ensemble des acquisitions",
+        "count": 98139,
+        "note": "",
+        "source": "Insee, Acquisitions de la nationalité française, données annuelles 2008-2025 (sources: ministère de l'Intérieur, ministère de la Justice)",
+        "source_url": "https://www.insee.fr/fr/statistiques/2381644",
+        "checked_on": "2026-11-24"
+      },
+      "decree_children_collective_effect": {
+        "mode_code": "decree_children_collective_effect",
+        "mode_label_fr": "Par décret : dont enfants mineurs (effet collectif)",
+        "count": 9196,
+        "note": "",
+        "source": "DGEF, L'accès à la nationalité française pour l'année 2025, figure 2",
+        "source_url": "https://www.immigration.interieur.gouv.fr/chiffres-de-limmigration-en-france/lacces-a-nationalite-francaise-pour-lannee-2025-moins-dacquisitions-de-nationalite-francaise-par",
+        "checked_on": "2026-11-24"
+      },
+      "marriage_children_collective_effect": {
+        "mode_code": "marriage_children_collective_effect",
+        "mode_label_fr": "Mariage : dont enfants (effet collectif)",
+        "count": 497,
+        "note": "",
+        "source": "DGEF, L'accès à la nationalité française pour l'année 2025, figure 2",
+        "source_url": "https://www.immigration.interieur.gouv.fr/chiffres-de-limmigration-en-france/lacces-a-nationalite-francaise-pour-lannee-2025-moins-dacquisitions-de-nationalite-francaise-par",
+        "checked_on": "2026-11-24"
+      },
+      "ascendant_sibling_children_collective_effect": {
+        "mode_code": "ascendant_sibling_children_collective_effect",
+        "mode_label_fr": "Ascendants et fratries : dont enfants",
+        "count": 108,
+        "note": "",
+        "source": "DGEF, L'accès à la nationalité française pour l'année 2025, figure 2",
+        "source_url": "https://www.immigration.interieur.gouv.fr/chiffres-de-limmigration-en-france/lacces-a-nationalite-francaise-pour-lannee-2025-moins-dacquisitions-de-nationalite-francaise-par",
+        "checked_on": "2026-11-24"
+      },
+      "interior_ministry_total": {
+        "mode_code": "interior_ministry_total",
+        "mode_label_fr": "Procédures du ministère de l'Intérieur (décret + mariage + ascendants/fratries)",
+        "count": 62235,
+        "note": "",
+        "source": "DGEF, L'accès à la nationalité française pour l'année 2025, figure 2",
+        "source_url": "https://www.immigration.interieur.gouv.fr/chiffres-de-limmigration-en-france/lacces-a-nationalite-francaise-pour-lannee-2025-moins-dacquisitions-de-nationalite-francaise-par",
+        "checked_on": "2026-11-24"
+      },
+      "decree_adults_derived": {
+        "mode_code": "decree_adults_derived",
+        "mode_label_fr": "Par décret : adultes (calcul = total décret - enfants)",
+        "count": 33050,
+        "note": "Derived by the dataset author",
+        "source": "Calculated from DGEF figure 2",
+        "source_url": "https://www.immigration.interieur.gouv.fr/chiffres-de-limmigration-en-france/lacces-a-nationalite-francaise-pour-lannee-2025-moins-dacquisitions-de-nationalite-francaise-par",
+        "checked_on": "2026-11-24"
+      }
+    }
+  }
+]

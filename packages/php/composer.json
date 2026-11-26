@@ -1,0 +1,52 @@
+{
+  "name": "nesravomigarbi/examen-civique-france",
+  "description": "Official French civic exam (examen civique) 2026 question lists and nationality acquisition statistics 2008–2025.",
+  "type": "library",
+  "license": "MIT AND CC-BY-4.0",
+  "keywords": [
+    "examen civique",
+    "French civic exam",
+    "naturalisation",
+    "naturalization",
+    "French citizenship",
+    "nationalité française",
+    "carte de séjour pluriannuelle",
+    "carte de résident",
+    "immigration France",
+    "integration test",
+    "citizenship test",
+    "DGEF",
+    "Insee",
+    "open data",
+    "France"
+  ],
+  "homepage": "https://examen-civique-test.fr/",
+  "authors": [
+    {
+      "name": "Nesra Vomigarbi",
+      "email": "data@examen-civique-test.fr",
+      "homepage": "https://examen-civique-test.fr/",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "source": "https://github.com/nesravomigarbi/examen-civique-france-php",
+    "docs": "https://github.com/nesravomigarbi/examen-civique-france-php",
+    "issues": "https://github.com/nesravomigarbi/examen-civique-france-php/issues"
+  },
+  "require": {
+    "php": ">=8.1",
+    "ext-json": "*",
+    "ext-mbstring": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "NesraVomigarbi\\ExamenCiviqueFrance\\": "src/"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-main": "1.0.x-dev"
+    }
+  }
+}

@@ -133,3 +133,9 @@ Interactive practice tool built on this dataset: [Examen Civique Test](https://e
 - [data.gouv.fr (FR)](https://www.data.gouv.fr/datasets/examen-civique-2026-listes-officielles-de-questions-csp-cr-naturalisation-et-statistiques-dacquisition-de-la-nationalite-2008-2025)
 - [data.gouv.fr (EN)](https://www.data.gouv.fr/datasets/french-civic-exam-2026-official-question-lists-csp-cr-naturalisation-and-french-nationality-acquisition-statistics-2008-2025)
 - [Wikidata (Q142273089)](https://www.wikidata.org/wiki/Q142273089)
+
+## Code libraries
+
+Language packages that bundle this dataset live under [`packages/`](packages/README.md): `examen-civique-france` for npm, PyPI and crates.io, `examen_civique_france` for RubyGems, and `nesravomigarbi/examen-civique-france` for Composer/Packagist. They are version 1.0.0. They have been prepared in this repository but have not been published to the public registries yet.
+
+The PHP package is also in a dedicated repository, [nesravomigarbi/examen-civique-france-php](https://github.com/nesravomigarbi/examen-civique-france-php), so that Packagist can read `composer.json` at the repository root.

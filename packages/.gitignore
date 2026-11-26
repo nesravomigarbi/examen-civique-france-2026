@@ -1,0 +1,12 @@
+.venv-build/
+**/dist/
+**/target/
+**/*.gem
+**/*.tgz
+**/.pytest_cache/
+**/__pycache__/
+**/*.egg-info/
+**/vendor/
+**/composer.lock
+/php/vendor/
+.DS_Store

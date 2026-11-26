@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this package, please cite the underlying dataset."
+type: software
+title: "examen-civique-france"
+version: "1.0.0"
+authors:
+  - family-names: Vomigarbi
+    given-names: Nesra
+    email: "data@examen-civique-test.fr"
+    affiliation: "Examen Civique Test (examen-civique-test.fr)"
+license: "MIT AND CC-BY-4.0"
+repository-code: "https://github.com/nesravomigarbi/examen-civique-france-php"
+url: "https://examen-civique-test.fr/"
+preferred-citation:
+  type: dataset
+  authors:
+    - family-names: Vomigarbi
+      given-names: Nesra
+      affiliation: "Examen Civique Test (examen-civique-test.fr)"
+  title: "French Civic Exam (Examen civique) 2026: Official Question Lists for All Three Mentions and Nationality Acquisition Statistics 2008–2025"
+  version: "1.0.1"
+  doi: "10.5281/zenodo.24496692"
+  year: 2026
+  publisher: "Examen Civique Test"
+  url: "https://examen-civique-test.fr/"
